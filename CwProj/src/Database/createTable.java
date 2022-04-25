@@ -10,10 +10,7 @@ import java.sql.SQLException;
 import java.sql.Statement;
 
 
-/**
- *
- * @author glukka
- */
+
 public class createTable {
 
     public static void main(String[] args) {
